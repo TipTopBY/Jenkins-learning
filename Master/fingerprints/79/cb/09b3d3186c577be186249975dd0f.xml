@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-12-10 08:15:59.570 UTC</timestamp>
+  <md5sum>79cb09b3d3186c577be186249975dd0f</md5sum>
+  <fileName>Credential id=docker_node_01 name=jenkins (docker_node_01)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.3.14">
+      <timestamp>1607588404206</timestamp>
+      <nodeName>slave_jenkins</nodeName>
+      <timestamp0>1607588284206</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

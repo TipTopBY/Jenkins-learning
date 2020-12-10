@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-12-10 09:02:21.19 UTC</timestamp>
+  <md5sum>9f6b817a50723e97c08df342a6ea22bf</md5sum>
+  <fileName>Credential id=AWS name=ubuntu (AWS-ubuntu)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.3.14">
+      <timestamp>1607591461320</timestamp>
+      <nodeName>AWS-Ubuntu</nodeName>
+      <timestamp0>1607591451655</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
